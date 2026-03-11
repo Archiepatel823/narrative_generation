@@ -62,9 +62,7 @@ The goal is to simulate real-world text analytics workflows used in business int
 - Processed CSV files
 
 ##  Author
-Archie Patel
-
 
 Archie Patel  
-B.Tech CSE (Data Science)  
+B.Tech CSE (Data Science) 
 Python | NLP | Machine Learning | Data Analytics
