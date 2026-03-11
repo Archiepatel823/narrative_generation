@@ -1,0 +1,101 @@
+Region,Month,Sales,Profit,Expenses,Customer_Satisfaction,Employee_Count,New_Customers,Returning_Customers,Narrative,Sentiment_Polarity,Sentiment_Subjectivity,Cluster
+North,December,11077,3436,9203,4.7,11,52,48,"During December, the North region attracted 52 new customers and retained 48 returning customers.",0.13636363636363635,0.45454545454545453,2
+East,November,11110,2952,13103,3.9,9,53,42,"During November, the East region attracted 53 new customers and retained 42 returning customers.",0.13636363636363635,0.45454545454545453,2
+West,June,12045,3514,8852,4.1,10,67,21,The West region recorded a customer satisfaction score of 4.1 in June.,0.0,0.0,2
+South,October,13258,2445,12210,4.1,8,45,34,"October was a productive month for the South region with total sales of $13,258 and profits of $2,445.",0.0,0.75,1
+North,August,15432,3023,9568,4.3,14,58,24,The North region recorded a customer satisfaction score of 4.3 in August.,0.0,0.0,2
+North,March,16054,2395,13536,4.5,11,53,28,"In the North region during March, sales reached $16,054, yielding a profit of $2,395.",0.0,0.0,0
+West,May,15143,3832,14064,3.8,13,55,48,"May was a productive month for the West region with total sales of $15,143 and profits of $3,832.",0.0,0.75,1
+South,March,17632,3187,12035,4.0,10,48,35,"In the South region during March, sales reached $17,632, yielding a profit of $3,187.",0.0,0.0,0
+East,September,11633,2698,9364,3.6,14,47,28,"In September, the East region operated with 14 employees, reporting expenses of $9,364.",0.0,0.0,0
+North,February,14507,4165,10404,3.7,10,48,35,"During February, the North region attracted 48 new customers and retained 35 returning customers.",0.13636363636363635,0.45454545454545453,2
+East,December,12009,4355,14055,3.6,13,64,23,"In December, the East region operated with 13 employees, reporting expenses of $14,055.",0.0,0.0,0
+East,April,15039,3682,8238,3.9,12,50,36,"April was a productive month for the East region with total sales of $15,039 and profits of $3,682.",0.0,0.75,1
+East,June,14871,3987,11509,4.2,9,68,44,"June was a productive month for the East region with total sales of $14,871 and profits of $3,987.",0.0,0.75,1
+North,December,10403,4674,11008,4.6,15,64,50,The North region recorded a customer satisfaction score of 4.6 in December.,0.0,0.0,2
+West,October,11940,2103,9237,5.0,12,54,45,The West region recorded a customer satisfaction score of 5.0 in October.,0.0,0.0,2
+South,November,16743,3896,8182,4.0,11,50,32,The South region recorded a customer satisfaction score of 4.0 in November.,0.0,0.0,2
+North,March,19159,3750,12530,4.1,12,49,42,"During March, the North region attracted 49 new customers and retained 42 returning customers.",0.13636363636363635,0.45454545454545453,2
+North,September,18342,2559,14661,4.2,8,50,26,"During September, the North region attracted 50 new customers and retained 26 returning customers.",0.13636363636363635,0.45454545454545453,2
+South,June,11208,4673,14021,4.7,13,56,24,"In the South region during June, sales reached $11,208, yielding a profit of $4,673.",0.0,0.0,0
+West,April,11033,2439,14110,4.1,15,68,34,The West region recorded a customer satisfaction score of 4.1 in April.,0.0,0.0,2
+West,March,12234,2891,10063,5.0,15,63,44,"In the West region during March, sales reached $12,234, yielding a profit of $2,891.",0.0,0.0,0
+West,March,17630,4453,14205,4.5,10,69,33,"In March, the West region operated with 10 employees, reporting expenses of $14,205.",0.0,0.0,0
+East,January,14933,3707,12016,5.0,12,52,26,"In the East region during January, sales reached $14,933, yielding a profit of $3,707.",0.0,0.0,0
+West,February,15207,4652,8984,4.4,8,46,37,"In the West region during February, sales reached $15,207, yielding a profit of $4,652.",0.0,0.0,0
+West,December,15061,4152,10102,3.7,10,61,37,"December was a productive month for the West region with total sales of $15,061 and profits of $4,152.",0.0,0.75,1
+North,July,17746,2102,9269,3.7,15,48,21,"July was a productive month for the North region with total sales of $17,746 and profits of $2,102.",0.0,0.75,1
+South,April,19965,4572,10919,3.9,11,52,49,"In the South region during April, sales reached $19,965, yielding a profit of $4,572.",0.0,0.0,0
+East,February,14845,4273,8076,3.9,15,60,47,"February was a productive month for the East region with total sales of $14,845 and profits of $4,273.",0.0,0.75,1
+North,September,10191,4888,9259,4.4,12,61,37,The North region recorded a customer satisfaction score of 4.4 in September.,0.0,0.0,2
+North,January,12593,4132,12086,4.9,14,47,27,"During January, the North region attracted 47 new customers and retained 27 returning customers.",0.13636363636363635,0.45454545454545453,2
+North,April,19727,2411,8158,4.6,13,60,49,"In April, the North region operated with 13 employees, reporting expenses of $8,158.",0.0,0.0,0
+East,August,15340,4181,8477,4.2,13,48,46,"August was a productive month for the East region with total sales of $15,340 and profits of $4,181.",0.0,0.75,1
+West,August,18150,3388,13680,4.8,14,62,29,"During August, the West region attracted 62 new customers and retained 29 returning customers.",0.13636363636363635,0.45454545454545453,2
+East,September,11661,4573,10478,4.7,8,68,41,"In September, the East region operated with 8 employees, reporting expenses of $10,478.",0.0,0.0,0
+West,August,16656,3417,8665,3.7,11,46,22,"During August, the West region attracted 46 new customers and retained 22 returning customers.",0.13636363636363635,0.45454545454545453,2
+West,February,15940,2677,12923,4.7,11,44,21,"During February, the West region attracted 44 new customers and retained 21 returning customers.",0.13636363636363635,0.45454545454545453,2
+North,August,10009,3609,11009,3.8,13,45,34,"In the North region during August, sales reached $10,009, yielding a profit of $3,609.",0.0,0.0,0
+East,May,18617,4416,13573,4.8,14,46,48,"In the East region during May, sales reached $18,617, yielding a profit of $4,416.",0.0,0.0,0
+South,February,15253,4049,13918,4.0,14,47,37,"In February, the South region operated with 14 employees, reporting expenses of $13,918.",0.0,0.0,0
+East,May,17207,2347,8248,4.6,9,40,43,The East region recorded a customer satisfaction score of 4.6 in May.,0.0,0.0,2
+East,January,11723,2929,8983,4.4,15,63,32,"In the East region during January, sales reached $11,723, yielding a profit of $2,929.",0.0,0.0,0
+West,August,12033,4486,8380,4.2,10,40,39,"During August, the West region attracted 40 new customers and retained 39 returning customers.",0.13636363636363635,0.45454545454545453,2
+South,November,10089,3635,13414,4.0,11,47,38,"In the South region during November, sales reached $10,089, yielding a profit of $3,635.",0.0,0.0,0
+North,July,14900,3570,13193,4.3,11,60,37,"In July, the North region operated with 11 employees, reporting expenses of $13,193.",0.0,0.0,0
+East,April,12663,4904,11622,4.8,10,64,23,The East region recorded a customer satisfaction score of 4.8 in April.,0.0,0.0,2
+West,May,12206,4554,11858,4.7,15,52,42,"In the West region during May, sales reached $12,206, yielding a profit of $4,554.",0.0,0.0,0
+East,April,11541,2606,10031,4.5,14,53,26,"During April, the East region attracted 53 new customers and retained 26 returning customers.",0.13636363636363635,0.45454545454545453,2
+South,May,19043,3196,11092,4.3,10,51,44,"In May, the South region operated with 10 employees, reporting expenses of $11,092.",0.0,0.0,0
+East,January,12919,4818,14017,3.8,8,64,48,The East region recorded a customer satisfaction score of 3.8 in January.,0.0,0.0,2
+West,June,13400,3657,13519,3.9,9,70,43,The West region recorded a customer satisfaction score of 3.9 in June.,0.0,0.0,2
+North,August,15332,3644,10022,4.8,15,59,48,"August was a productive month for the North region with total sales of $15,332 and profits of $3,644.",0.0,0.75,1
+North,July,10162,2979,8933,3.8,15,54,31,"In the North region during July, sales reached $10,162, yielding a profit of $2,979.",0.0,0.0,0
+South,February,17744,3230,12084,4.8,13,62,33,"In February, the South region operated with 13 employees, reporting expenses of $12,084.",0.0,0.0,0
+North,August,10719,4159,13087,4.4,10,63,37,"In the North region during August, sales reached $10,719, yielding a profit of $4,159.",0.0,0.0,0
+South,December,17379,3827,11924,4.0,11,53,41,The South region recorded a customer satisfaction score of 4.0 in December.,0.0,0.0,2
+East,August,14153,3843,8088,3.5,8,69,41,"August was a productive month for the East region with total sales of $14,153 and profits of $3,843.",0.0,0.75,1
+North,November,11162,3638,8289,4.6,8,45,30,"In the North region during November, sales reached $11,162, yielding a profit of $3,638.",0.0,0.0,0
+East,November,19233,2183,8346,3.9,8,54,42,"In November, the East region operated with 8 employees, reporting expenses of $8,346.",0.0,0.0,0
+West,February,18206,3188,9293,4.5,12,58,29,The West region recorded a customer satisfaction score of 4.5 in February.,0.0,0.0,2
+South,June,15244,2603,9715,3.5,12,60,47,"June was a productive month for the South region with total sales of $15,244 and profits of $2,603.",0.0,0.75,1
+South,August,19973,3113,9419,4.4,12,61,25,The South region recorded a customer satisfaction score of 4.4 in August.,0.0,0.0,2
+West,June,15956,3234,13339,4.5,10,57,48,The West region recorded a customer satisfaction score of 4.5 in June.,0.0,0.0,2
+East,February,10606,4019,10104,4.9,10,70,29,"During February, the East region attracted 70 new customers and retained 29 returning customers.",0.13636363636363635,0.45454545454545453,2
+East,February,17169,2532,8161,4.0,9,68,39,The East region recorded a customer satisfaction score of 4.0 in February.,0.0,0.0,2
+West,December,18896,4959,14362,3.6,12,69,50,The West region recorded a customer satisfaction score of 3.6 in December.,0.0,0.0,2
+South,August,10905,4310,13979,4.6,14,60,21,The South region recorded a customer satisfaction score of 4.6 in August.,0.0,0.0,2
+East,December,16299,4953,14396,4.9,11,40,39,"In December, the East region operated with 11 employees, reporting expenses of $14,396.",0.0,0.0,0
+South,October,19278,2563,13149,5.0,8,62,41,"October was a productive month for the South region with total sales of $19,278 and profits of $2,563.",0.0,0.75,1
+East,November,17967,3204,12011,3.7,11,56,38,"In November, the East region operated with 11 employees, reporting expenses of $12,011.",0.0,0.0,0
+South,December,14317,4727,10554,3.6,15,42,22,The South region recorded a customer satisfaction score of 3.6 in December.,0.0,0.0,2
+West,November,19184,3775,12291,3.8,15,67,26,"In the West region during November, sales reached $19,184, yielding a profit of $3,775.",0.0,0.0,0
+North,May,19535,4461,8147,3.7,8,57,39,"In the North region during May, sales reached $19,535, yielding a profit of $4,461.",0.0,0.0,0
+East,February,11452,4558,14894,4.7,10,63,46,"In the East region during February, sales reached $11,452, yielding a profit of $4,558.",0.0,0.0,0
+West,February,18180,4950,14328,4.9,8,49,45,"In February, the West region operated with 8 employees, reporting expenses of $14,328.",0.0,0.0,0
+South,June,17090,3078,12085,4.6,11,50,49,"In the South region during June, sales reached $17,090, yielding a profit of $3,078.",0.0,0.0,0
+North,December,15616,4627,11832,4.7,14,45,30,"December was a productive month for the North region with total sales of $15,616 and profits of $4,627.",0.0,0.75,1
+East,January,10356,4447,12275,4.4,15,60,23,"In the East region during January, sales reached $10,356, yielding a profit of $4,447.",0.0,0.0,0
+East,January,17549,2844,14219,4.5,13,66,47,"In the East region during January, sales reached $17,549, yielding a profit of $2,844.",0.0,0.0,0
+East,January,19296,4002,12533,4.3,8,58,24,"In January, the East region operated with 8 employees, reporting expenses of $12,533.",0.0,0.0,0
+South,January,15961,2685,14721,4.8,8,48,20,"During January, the South region attracted 48 new customers and retained 20 returning customers.",0.13636363636363635,0.45454545454545453,2
+West,September,11311,2626,13083,3.6,14,41,42,"In September, the West region operated with 14 employees, reporting expenses of $13,083.",0.0,0.0,0
+West,October,11868,4402,13278,3.8,15,63,48,"During October, the West region attracted 63 new customers and retained 48 returning customers.",0.13636363636363635,0.45454545454545453,2
+South,February,12410,2460,9017,3.9,11,54,39,The South region recorded a customer satisfaction score of 3.9 in February.,0.0,0.0,2
+East,February,16067,2421,11556,4.5,8,42,28,"February was a productive month for the East region with total sales of $16,067 and profits of $2,421.",0.0,0.75,1
+West,November,18246,3071,8968,3.8,13,41,50,The West region recorded a customer satisfaction score of 3.8 in November.,0.0,0.0,2
+North,September,17742,4315,11667,3.9,8,58,37,"In the North region during September, sales reached $17,742, yielding a profit of $4,315.",0.0,0.0,0
+East,March,13392,4469,9500,4.9,13,61,23,"In March, the East region operated with 13 employees, reporting expenses of $9,500.",0.0,0.0,0
+South,August,17961,2307,8936,3.5,10,45,50,"August was a productive month for the South region with total sales of $17,961 and profits of $2,307.",0.0,0.75,1
+South,December,17180,4961,12787,4.2,12,53,45,"December was a productive month for the South region with total sales of $17,180 and profits of $4,961.",0.0,0.75,1
+South,March,14537,3866,8601,4.0,9,61,30,"In March, the South region operated with 9 employees, reporting expenses of $8,601.",0.0,0.0,0
+West,March,14800,3315,14908,4.8,8,56,20,"In the West region during March, sales reached $14,800, yielding a profit of $3,315.",0.0,0.0,0
+West,June,13391,4479,13605,4.4,13,61,39,"During June, the West region attracted 61 new customers and retained 39 returning customers.",0.13636363636363635,0.45454545454545453,2
+West,January,17122,3631,11078,3.7,14,67,26,"In the West region during January, sales reached $17,122, yielding a profit of $3,631.",0.0,0.0,0
+North,November,16870,4080,11909,4.4,12,51,45,"November was a productive month for the North region with total sales of $16,870 and profits of $4,080.",0.0,0.75,1
+South,April,18767,2162,12411,4.3,13,54,48,"In the South region during April, sales reached $18,767, yielding a profit of $2,162.",0.0,0.0,0
+West,April,19461,4068,12715,4.8,12,70,32,"In the West region during April, sales reached $19,461, yielding a profit of $4,068.",0.0,0.0,0
+North,January,16411,4851,13395,3.5,10,42,20,"In January, the North region operated with 10 employees, reporting expenses of $13,395.",0.0,0.0,0
+East,November,13752,4465,8905,4.2,8,64,49,"In the East region during November, sales reached $13,752, yielding a profit of $4,465.",0.0,0.0,0
+West,March,15533,3424,12173,4.0,12,66,49,"In March, the West region operated with 12 employees, reporting expenses of $12,173.",0.0,0.0,0
+West,September,17089,4006,10611,3.8,15,56,50,"September was a productive month for the West region with total sales of $17,089 and profits of $4,006.",0.0,0.75,1
